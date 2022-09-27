@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.5" height="18.601" viewBox="0 0 71.5 18.601">
+  <g id="removerbtn" transform="translate(-213.5 -247.2)">
+    <path id="Caminho_793" data-name="Caminho 793" d="M5.922,7.611V17.757A1.845,1.845,0,0,0,7.767,19.6h7.378a1.845,1.845,0,0,0,1.845-1.845V7.611m-7.378.922v7.378M13.3,8.534v7.378M5,4.845H17.912M8.689,3h5.534" transform="translate(209.5 245.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Remover" transform="translate(235 260.5)" fill="#1c2641" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Remover</tspan></text>
+  </g>
+</svg>

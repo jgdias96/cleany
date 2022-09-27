@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.266" height="20.266" viewBox="0 0 66.266 20.266">
+  <g id="servicosativos" transform="translate(-38.867 -159.867)">
+    <text id="_3" data-name="3" transform="translate(72 174)" fill="#fff" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="-3.606" y="0">3</tspan></text>
+    <path id="plus" d="M12.133,2A10.133,10.133,0,1,0,22.266,12.133,10.132,10.132,0,0,0,12.133,2ZM17.4,12.943H12.943V17.4a.811.811,0,0,1-1.621,0V12.943H6.864a.811.811,0,0,1,0-1.621h4.458V6.864a.811.811,0,0,1,1.621,0v4.458H17.4a.811.811,0,0,1,0,1.621Z" transform="translate(82.867 157.867)" fill="#1c2641"/>
+    <path id="less" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm4.93,11H7.07a1,1,0,0,1,0-2h9.86a1,1,0,0,1,0,2Z" transform="translate(36.867 158)"/>
+  </g>
+</svg>

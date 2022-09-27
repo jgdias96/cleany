@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="xIcon" transform="translate(0 0.172)">
+    <rect id="Retângulo_134" data-name="Retângulo 134" width="19" height="19" transform="translate(0 -0.172)" fill="none"/>
+    <path id="Caminho_864" data-name="Caminho 864" d="M45.092,32h-11.9A1.191,1.191,0,0,0,32,33.19v11.9a1.191,1.191,0,0,0,1.19,1.19h11.9a1.191,1.191,0,0,0,1.19-1.19V33.19A1.191,1.191,0,0,0,45.092,32Zm-3.149,9.1a.595.595,0,0,1-.841.841l-1.959-1.959-1.959,1.959a.595.595,0,0,1-.841-.841L38.3,39.14l-1.959-1.959a.595.595,0,1,1,.841-.841L39.141,38.3,41.1,36.339a.595.595,0,0,1,.841.841L39.983,39.14Z" transform="translate(-29.621 -29.833)" fill="#1c2641"/>
+  </g>
+</svg>

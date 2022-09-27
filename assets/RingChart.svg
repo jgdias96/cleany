@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139.009" height="139" viewBox="0 0 139.009 139">
+  <g id="RingChart" transform="translate(-120.719 -112.722)">
+    <path id="Caminho_949" data-name="Caminho 949" d="M0-69.5A69.5,69.5,0,0,1,66.1-21.477a69.5,69.5,0,0,1-25.247,77.7,69.5,69.5,0,0,1-81.7,0L-32.622,44.9a55.5,55.5,0,0,0,65.244,0A55.5,55.5,0,0,0,52.784-17.15,55.5,55.5,0,0,0,0-55.5Z" transform="translate(190.224 182.222)" fill="#1c2641"/>
+    <path id="Caminho_950" data-name="Caminho 950" d="M-40.851,56.227A69.5,69.5,0,0,1-66.1-21.477,69.5,69.5,0,0,1,0-69.5v14A55.5,55.5,0,0,0-52.784-17.15,55.5,55.5,0,0,0-32.622,44.9Z" transform="translate(190.224 182.222)" fill="#fff"/>
+    <g id="Grupo_368" data-name="Grupo 368" transform="translate(0 2.125)">
+      <text id="Março" transform="translate(190.224 177.222)" fill="#fff" font-size="20" font-family="Rubik-Regular, Rubik"><tspan x="-28.42" y="0">Março</tspan></text>
+      <text id="_60_" data-name="60%" transform="translate(190.224 197.973)" fill="#fff" font-size="15" font-family="Rubik-Regular, Rubik"><tspan x="-14.993" y="0">60%</tspan></text>
+    </g>
+  </g>
+</svg>

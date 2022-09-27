@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="retrocederBTN" transform="translate(0 -0.285)">
+    <g id="arrow-circle-left" transform="translate(0 0.285)">
+      <rect id="Retângulo_52" data-name="Retângulo 52" width="44" height="44" transform="translate(44) rotate(90)" fill="#fff" opacity="0"/>
+      <path id="Caminho_552" data-name="Caminho 552" d="M39.135,20.567A18.567,18.567,0,1,0,20.567,39.135,18.567,18.567,0,0,0,39.135,20.567ZM17.114,27.419l-5.31-5.57a.91.91,0,0,1-.186-.279,1,1,0,0,1-.186-.3,1.745,1.745,0,0,1,0-1.411,1.857,1.857,0,0,1,.39-.613l5.57-5.57a1.864,1.864,0,0,1,2.637,2.637l-2.414,2.4H27.994a1.857,1.857,0,0,1,0,3.713H17.485l2.321,2.432a1.858,1.858,0,0,1-2.692,2.562Z" transform="translate(1.713 1.321)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
